@@ -1,6 +1,7 @@
 {
   "name": "methodist-gh-cms",
   "version": "0.1.0",
+  "homepage": "https://jonmens.github.io/methodist-gh-cms",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
@@ -8,6 +9,7 @@
     "@testing-library/user-event": "^12.1.10",
     "admin-lte": "^3.1.0-rc",
     "firebase": "^8.2.10",
+    "gh-pages": "^3.1.0",
     "react": "^17.0.1",
     "react-datepicker": "^3.6.0",
     "react-dom": "^17.0.1",
@@ -17,6 +19,8 @@
     "web-vitals": "^1.0.1"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
