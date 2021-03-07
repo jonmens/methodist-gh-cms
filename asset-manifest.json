@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/methodist-gh-cms/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/methodist-gh-cms/static/js/main.67358a37.chunk.js",
+    "main.js.map": "/methodist-gh-cms/static/js/main.67358a37.chunk.js.map",
+    "runtime-main.js": "/methodist-gh-cms/static/js/runtime-main.aebcda34.js",
+    "runtime-main.js.map": "/methodist-gh-cms/static/js/runtime-main.aebcda34.js.map",
+    "static/css/2.d22f252f.chunk.css": "/methodist-gh-cms/static/css/2.d22f252f.chunk.css",
+    "static/js/2.16f8e94f.chunk.js": "/methodist-gh-cms/static/js/2.16f8e94f.chunk.js",
+    "static/js/2.16f8e94f.chunk.js.map": "/methodist-gh-cms/static/js/2.16f8e94f.chunk.js.map",
+    "static/js/3.5e2db5ff.chunk.js": "/methodist-gh-cms/static/js/3.5e2db5ff.chunk.js",
+    "static/js/3.5e2db5ff.chunk.js.map": "/methodist-gh-cms/static/js/3.5e2db5ff.chunk.js.map",
+    "index.html": "/methodist-gh-cms/index.html",
+    "static/css/2.d22f252f.chunk.css.map": "/methodist-gh-cms/static/css/2.d22f252f.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/methodist-gh-cms/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.16f8e94f.chunk.js.LICENSE.txt": "/methodist-gh-cms/static/js/2.16f8e94f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aebcda34.js",
+    "static/css/2.d22f252f.chunk.css",
+    "static/js/2.16f8e94f.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.67358a37.chunk.js"
+  ]
+}
